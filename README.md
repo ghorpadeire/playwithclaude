@@ -9,3 +9,4 @@ the first task needs them. Rules are in [CLAUDE.md](CLAUDE.md).
 
 | Date | Task | Category | Status | Summary |
 |------|------|----------|--------|---------|
+| 2026-09-25 | [paperclip-setup](learning/paperclip-setup) | learning | Done | Install and run Paperclip (AI agent control plane) |
