@@ -41,7 +41,7 @@ sudo ./start-paperclip.sh run       # later starts
 curl http://127.0.0.1:3100/api/health   # expect "status":"ok"
 ```
 
-First-run screen: [docs/first-run.png](docs/first-run.png)
+Usage walkthrough with screenshots: [GUIDE.md](GUIDE.md)
 
 ## Notes
 
